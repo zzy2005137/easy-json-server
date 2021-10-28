@@ -35,7 +35,7 @@
       }
    ],
 "data":{
-   "Key":"exampleData",
+   "Key":"exampleData1",
    "Value":"from-json-server",
    "Test":"some test description"
 }
